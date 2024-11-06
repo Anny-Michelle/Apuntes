@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "Programaci¢n Orientada a Objeto > Principios SOLID > Patrones de Dise¤os" 
+=======
+Programacion orientada a objeto
+Principios SOLID
+Patrones de DiseÃ±os
+>>>>>>> apuntes-temporales
